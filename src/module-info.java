@@ -5,5 +5,5 @@
  * @author logonrmlocal
  *
  */
-module exercicio {
+module veiculo-javaoo {
 }
